@@ -1,5 +1,8 @@
 # HR-DASHBOARD-POWER-BI
 The HR Dashboard Power BI project is designed to provide HR professionals and stakeholders with a centralized and interactive platform to gain valuable insights into key human resources metrics. This dynamic dashboard presents a holistic view of crucial workforce data, enabling data-driven decision-making and strategic workforce planning.
+
+![Hr Dash Image](https://github.com/YvanStrong/HR-DASHBOARD-POWER-BI/assets/94084512/4cd10052-a707-4880-9cc7-38a8abc71ca5)
+
 Features:
 
 1. Workforce Analytics: Monitor and analyze key HR metrics such as employee turnover rate, headcount, retention, and demographics to gain a deep understanding of workforce dynamics.
